@@ -1,0 +1,11 @@
+ul {
+    list-style: none;
+}
+
+li {
+    font-size: 18px;
+    text-transform: uppercase;
+    color: blue;
+    padding: 20px;
+    font-weight: bold;
+}
